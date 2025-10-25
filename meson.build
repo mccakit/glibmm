@@ -278,8 +278,8 @@ subdir('glib/glibmm')
 subdir('gio')
 subdir('MSVC_NMake/giomm')
 subdir('gio/giomm')
-subdir('examples')
-subdir('tests')
+#subdir('examples')
+#subdir('tests')
 subdir('docs/reference')
 
 # Add a ChangeLog file to the distribution directory.
